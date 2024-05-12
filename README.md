@@ -1,5 +1,5 @@
 # Sentiment Analysis
-    Sentiment analysis categorizes text into positive, negative, or neutral sentiments.
+Sentiment analysis categorizes text into positive, negative, or neutral sentiments.
 
 ## Objective
 
