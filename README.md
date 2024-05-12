@@ -7,7 +7,7 @@ Develop an Automated Sentiment Analysis tool to predict sentiment and confidence
 
 ## Approach
 
-  1. __Model__:  Utilize [Bertweet]((https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis?text=I+like+you.+I+love+you)), a [Roberta](https://arxiv.org/abs/1907.11692) model trained on the SemEval 2017 corpus for tweet sentiment analysis, leveraging Hugging Face's pipeline functionality for easy integration.
+  1. __Model__:  Utilize [Bertweet](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis?text=I+like+you.+I+love+you), a [Roberta](https://arxiv.org/abs/1907.11692) model trained on the SemEval 2017 corpus for tweet sentiment analysis, leveraging Hugging Face's pipeline functionality for easy integration.
   
   2. __Flask__: Create a simple web app with Flask to provide a user interface for text input and result display.
 
